@@ -1,5 +1,5 @@
 # LivrosFavoritos
-Desenvolvido por: Arthur Lima, Felipe Lanza, Lucas Gouveia, Murilo Almeida
+Desenvolvido por: Arthur Lima, Felipe Lanza, Lucas Gouveia, Murilo Almeida e Won Woo Chung
 
 <img width="351" height="622" alt="image" src="https://github.com/user-attachments/assets/ef0d8276-ac20-451f-a99b-bd2fb50baaab" />
 
